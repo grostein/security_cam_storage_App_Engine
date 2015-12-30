@@ -1,0 +1,9 @@
+# Google App Engine generated folder
+appengine-generated/
+*~
+*.pyc
+aggiorna.sh
+app.yaml
+handle_incoming_email.py
+prezzo.py
+email.py

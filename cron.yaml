@@ -1,0 +1,4 @@
+cron:
+- description: pulizia
+  url: /pulizia
+  schedule: every 2 hours
